@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <link rel="stylesheet" href="../Proyecto/styles.css">
+    <meta charset="utf-8" />
+    <title>Los Gatos</title>
+  </head>
+  <body bgcolor="00FFFF">
+    <h1>Los <span>Gatos</span></h1>
+    <h2>Que es un <a href="https://es.wikipedia.org/wiki/Felis_silvestris_catus" title="Gatos wikipedia" target="_blank">Gato</a> </h2>
+    <p>Mamífero de la familia de los <em>félidos</em>, digitígrado, doméstico, de unos 50 cm de largo desde la cabeza hasta el arranque de la cola, que por sí sola mide unos 20 cm, de cabeza redonda, lengua muy áspera, patas cortas y generalmente pelaje suave y espeso, de color blanco, gris, pardo, rojizo o negro, empleado en algunos lugares para cazar ratones.</p>
+    <h2>Caracteristicas de los Gatos:</h2>
+    <ul>
+      <li>Independientes</li>
+      <li>Curiosos</li>
+      <li>Ágiles</li>
+      <li>Territoriales</li>
+    </ul>
+    <img src="../Imagenes prueba/gatito1.jpg" title="Gatito sentado" alt="Imagen de Gato" width="300" height="200" />
+    <img src="https://static6.depositphotos.com/1004769/598/i/950/depositphotos_5981131-stock-photo-small-kittens-in-straw-basket.jpg" title="gatos en canasta" alt="Gatitos en canasta" width="300" height="200">
+    <p></p>
+
+    <input type="text">
+
+  </body> 
+ 
+</html>
